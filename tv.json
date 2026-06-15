@@ -15510,12 +15510,6 @@
     "categoria": "🎵 |  MUSICA"
   },
   {
-    "title": "Stingray Pop Adult (1080p)",
-    "url": "http://libertadtv.lat:8080/live/Omarprosop/1347339e05/428861.m3u8",
-    "logo": "https://i.imgur.com/H2ugC9L.png",
-    "categoria": "🎵 |  MUSICA"
-  },
-  {
     "title": "Stingray Remember the 80s (1080p)",
     "url": "http://libertadtv.lat:8080/live/Omarprosop/1347339e05/428862.m3u8",
     "logo": "https://i.imgur.com/6E3wYrb.png",
@@ -20217,6 +20211,12 @@
     "title": "FOX: Dayton OH | FOX 45",
     "url": "http://libertadtv.lat:8080/live/Omarprosop/1347339e05/410190.m3u8",
     "logo": "https://static.wikia.nocookie.net/dreamfiction/images/9/9e/WRGT_Fox_45_logo_fictionalized.png/revision/latest?cb=20210106203739",
+    "categoria": "✅ USA | FOX"
+  },
+  {
+    "title": "MD WBFF\" tvg-logo=\"https://pbs.twimg.com/profile_images/378800000110601723/a728395fe1762d680a7764b317a96cb4_400x400.png\" group-title=\"✅ USA | FOX\",USA | FOX Baltimore, MD WBFF",
+    "url": "http://libertadtv.lat:8080/live/Omarprosop/1347339e05/410181.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/378800000110601723/a728395fe1762d680a7764b317a96cb4_400x400.png",
     "categoria": "✅ USA | FOX"
   },
   {
